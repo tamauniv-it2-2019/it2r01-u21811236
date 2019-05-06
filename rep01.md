@@ -20,9 +20,10 @@
 - 斜体と太字が使える
 ## できる人のための追加課題
 
-- [ ] タスクリストが使える
-- [ ] 引用（blockquote) が使える
+- [x] task list
+- [x] blockquote が使える
 - [Googleをみる][Google]:https://www.google.com/?hl=ja
-- [×] 打ち消し線 (stroke) が使え~~ない~~る
+- [x] stroke が使え~~ない~~る
    - 打消し線が使えま~~せん~~す
-- [ ] インラインコード (`***太字***` など）が使える
+- [x] inline code (`***太字***` など）が使える
+- [x] a
