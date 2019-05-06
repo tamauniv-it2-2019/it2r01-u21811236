@@ -21,7 +21,7 @@
 ## できる人のための追加課題
 
 - [ ] タスクリストが使える
-- [×] 引用（blockquote) が使える
+- [✓] 引用（blockquote) が使える
 - [Googleをみる][Google]:https://www.google.com/?hl=ja
 - [×] 打ち消し線 (stroke) が使え~~ない~~る
    - 打消し線が使えま~~せん~~す
