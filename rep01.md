@@ -21,9 +21,3 @@
 ## できる人のための追加課題
 
 - [x] task list
-- [x] blockquote が使える
-- [Googleをみる][Google]:https://www.google.com/?hl=ja
-- [x] stroke が使え~~ない~~る
-   - 打消し線が使えま~~せん~~す
-- [x] inline code (`***太字***` など）が使える
-- [x] a
